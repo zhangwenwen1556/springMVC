@@ -4,7 +4,7 @@ target/
 ### STS ###
 .classpath
 .factorypath
-.project
+#.project
 .settings
 .springBeans
 
